@@ -1,5 +1,3 @@
-# projects
-New projects 
 <!DOCTYPE html>
 <html>
   <meta charset="utf-8">
